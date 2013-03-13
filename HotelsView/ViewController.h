@@ -7,7 +7,15 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <MapKit/MapKit.h>
+#import "MKMapView+ZoomLevel.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UISearchBarDelegate, MKMapViewDelegate>
+
+@property (retain, nonatomic) IBOutlet UISearchBar *searchBar;
+@property (retain, nonatomic) IBOutlet MKMapView *mapView;
+@property (retain, nonatomic) IBOutlet UIBarButtonItem *barButtonItem;
+
+- (IBAction)showAreaClick:(id)sender;
 
 @end

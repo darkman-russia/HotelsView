@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  HotelsView
+*/
+
+"CancelTitle"     = "Cancel";
+"ErrorTitle"      = "Error";
+"CloseTitle"      = "Close";
+"BackTitle"       = "Back";
+"ShowAreaTitle"   = "Show cities at area";
+
+"CityTableTitle"    = "Areas";
+"HotelsMapTitle"    = "Hotels for %@";
+"HotelsMarkerTitle" = "Hotels: %d";
+"HotelsListTitle"   = "Hotels list";
+"HotelsInfoTitle"   = "Hotels information";
+"ManyItemsSubtitle" = "Many items";
+
+"LoadingCity"     = "Loading cities...";
+"LoadingArea"     = "Loading area...";
+"LoadingHotels"   = "Loading hotels...";
+"ConnectionError" = "Error during connection";
+
+// Errors descriptions
+
+"edErrorJSONFormat" = "Error in data parcing";
+"edErrorDataNil"    = "Error while getting data";
+
+

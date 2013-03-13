@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  HotelsView
+*/
+
+"CancelTitle"     = "Отмена";
+"ErrorTitle"      = "Ошибка";
+"CloseTitle"      = "Закрыть";
+"BackTitle"       = "Назад";
+"ShowAreaTitle"   = "Показать города в регионе";
+
+"CityTableTitle"    = "Населенные пункты";
+"HotelsMapTitle"    = "Отели в г. %@";
+"HotelsMarkerTitle" = "Отелей: %d";
+"HotelsListTitle"   = "Список отелей";
+"HotelsInfoTitle"   = "Информация по отелю";
+"ManyItemsSubtitle" = "Множественная выборка";
+
+"LoadingCity"     = "Загружаются города...";
+"LoadingArea"     = "Загружется регион...";
+"LoadingHotels"   = "Загружаются отели...";
+"ConnectionError" = "Ошибка при соединении";
+
+// Errors descriptions
+"edErrorJSONFormat" = "Ошибка в данных";
+"edErrorDataNil"    = "Ошибка при получении данных";
